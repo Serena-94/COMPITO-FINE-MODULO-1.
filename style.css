@@ -1,0 +1,941 @@
+.header{
+    margin: 0;
+}
+
+.navbar{
+    margin-top: 0;
+    color: white;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 3px;
+    box-shadow: 0px 5px 5px #8888882e;
+    background-color: white;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.logo-container{
+width: 30%;
+height: 50px;
+margin-left: 80px;
+top: 8px;
+left: 60px;
+}
+
+.logo{
+    width: 15%;
+    height: 50px;
+    position: absolute;
+    bottom: 5px;
+}
+
+.button-nav{
+position: absolute;
+display: flex;
+flex-direction: row;
+margin-left:800px;
+gap: 8px;
+bottom: 18px;
+
+}
+
+.button-nav, button{
+    border-radius: 30px;
+    border-color: transparent;
+    background-color: white;
+    
+    
+   
+}
+
+#membership{
+    border: 1px solid grey;
+    box-shadow: 0px 5px 5px #8888882e;
+    padding: 6px;
+   
+}
+#T{
+    background-color: orangered;
+    color: white;  
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    
+    }
+.parent-cl1{
+    display: flex;
+    width:100%
+    
+
+}    
+.containerlink1{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 60px;
+    left: 65px;
+
+    }
+
+.link1{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    color: black;
+}
+#rec{
+    margin-left: 20px;
+    color: black;
+}
+#fol{
+    color: black;
+}
+
+
+.source{
+display: flex;
+flex-direction: row;
+width: 60%;
+position: relative;
+left: 60px;
+bottom: 8px;
+width: 70%;
+top: 50px;
+}
+
+.source> img{
+    border-radius: 6px;
+}
+
+.article1title >h2{
+    position: absolute;
+    display: flex;
+    left: 65px;
+    justify-content: center;
+    top: 170px;
+}
+
+
+
+.article1text >p{
+    position: absolute;
+    display: flex;
+    display: flex;
+    left: 65px;
+    justify-content: center;
+    top:235px;
+    color: gray;
+    
+}
+.container-info1>ul{
+    position: absolute;
+    display: flex;
+    left: 35px;
+    justify-content: center;
+    top:300px;
+    gap: 20px;
+    color: gray;
+    font-size: small;
+}
+.button1{
+    position: absolute;
+    display: flex;
+    left: 500px;
+    justify-content: center;
+    top:312px;
+}
+.button1>button{
+    color: gray;
+}
+.articleimage1{
+    position: absolute;
+    display: flex;
+   top: 173px;
+   left: 600px;
+}
+
+
+.section2{
+    display: flex;
+    padding-bottom: 160px;
+    
+    
+    }
+    .source2{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    position: relative;
+    left: 60px;
+    bottom: 8px;
+    width: 70%;
+    top: 260px;
+    }
+
+    .source2> img{
+        border-radius: 10px;
+        
+
+    }
+    
+    .article2title >h2{
+        position: absolute;
+        display: flex;
+        left: 65px;
+        justify-content: center;
+        top: 400px;
+    }
+    
+   
+    
+    .article2text >p{
+        position: absolute;
+        display: flex;
+        display: flex;
+        left: 65px;
+        justify-content: center;
+        top:460px;
+        color: gray;
+        
+    }
+    .container-info2>ul{
+        position: absolute;
+        display: flex;
+        left: 35px;
+        justify-content: center;
+        top:500px;
+        gap: 20px;
+        color: gray;
+        font-size: small;
+    }
+    .button2{
+        position: absolute;
+        display: flex;
+        left: 500px;
+        justify-content: center;
+        top:512px;
+    }
+    .button2>button{
+        color: gray;
+    }
+    .articleimage2{
+        position: absolute;
+        display: flex;
+       top: 372px;
+       left: 600px;
+    }
+
+    .section3{
+       padding-bottom: 300px;
+        
+        
+        
+        }
+        .source3{
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        left: 53px;
+        bottom: 60px;
+        width: 70%;
+        top: 310px;
+        }
+        
+        .source3> img{
+            border-radius: 6px;
+        }
+
+        .article3title >h2{
+            position: absolute;
+            display: flex;
+            left: 65px;
+            justify-content: center;
+            top: 600px;
+        }
+        
+    
+        
+        .article3text >p{
+            position: absolute;
+            display: flex;
+            display: flex;
+            left: 65px;
+            justify-content: center;
+            top:650px;
+            color: gray;
+            
+        }
+        .container-info3>ul{
+            position: absolute;
+            display: flex;
+            left: 35px;
+            justify-content: center;
+            top:740px;
+            gap: 20px;
+            color: gray;
+            font-size: small;
+        }
+        .button3{
+            position: absolute;
+            display: flex;
+            left: 500px;
+            justify-content: center;
+            top: 750px;
+        }
+        .button3>button{
+            color: gray;
+        }
+        .articleimage3{
+            position: absolute;
+            display: flex;
+            left: 600px;
+            top: 610px;
+           
+        }
+
+        .section4{
+            padding-bottom: 200px;
+             
+             
+             
+             }
+             .source4{
+             display: flex;
+             flex-direction: row;
+             position: relative;
+             left: 53px;
+             width: 70%;
+             top: 180px;
+             }
+             
+             .source4> img{
+                 border-radius: 6px;
+             }
+     
+             .article4title >h2{
+                 position: absolute;
+                 display: flex;
+                 left: 65px;
+                 justify-content: center;
+                 top: 800px;
+             }
+             
+             
+             
+             .article4text >p{
+                 position: absolute;
+                 display: flex;
+                 display: flex;
+                 left: 65px;
+                 justify-content: center;
+                 top: 850px;
+                 color: gray;
+                 
+             }
+             .container-info4>ul{
+                 position: absolute;
+                 display: flex;
+                 left: 35px;
+                 justify-content: center;
+                 top:950px;
+                 gap: 20px;
+                 color: gray;
+                 font-size: small;
+             }
+             .button4{
+                 position: absolute;
+                 display: flex;
+                 left: 500px;
+                 justify-content: center;
+                 top: 965px;
+             }
+             .button4>button{
+                 color: gray;
+             }
+             .articleimage4{
+                 position: absolute;
+                 display: flex;
+                 left: 600px;
+                 top: 840px;
+                
+             }
+
+             .section5{
+                padding-bottom: 200px;
+               
+                 
+                 
+                 
+                 }
+                 .source5{
+                 display: flex;
+                 flex-direction: row;
+                 position: relative;
+                 left: 53px;
+                 width: 70%;
+                 top:200px
+            
+                
+                 }
+                 
+                 .source5> img{
+                     border-radius: 6px;
+                     bottom: 40px;
+                     
+                 }
+         
+                 .article5title >h2{
+                     position: absolute;
+                     display: flex;
+                     left: 65px;
+                     justify-content: center;
+                     top: 1035px;
+                    
+                     
+                     
+                 }
+                
+                 
+                 .article5text >p{
+                     position: absolute;
+                     display: flex;
+                     display: flex;
+                     left: 65px;
+                     justify-content: center;
+                     top: 1098px;
+                     color: gray;
+
+                     
+                 }
+                 .container-info5>ul{
+                     position: absolute;
+                     display: flex;
+                     left: 35px;
+                     justify-content: center;
+                     top:1200px;
+                     gap: 20px;
+                     color: gray;
+                     font-size: small;
+                 }
+                 .button5{
+                    position: absolute;
+                    display: flex;
+                    left: 500px;
+                    justify-content: center;
+                    top: 1217px;
+
+                 }
+                 .button5>button{
+                     color: gray;
+                     top: 900px;
+                     
+                 }
+                 .articleimage5{
+                     position: absolute;
+                     display: flex;
+                     left: 600px;
+                     top:1060px;
+                    
+                 }
+
+                 
+                     .source6{
+                     display: flex;
+                     flex-direction: row;
+                     position: relative;
+                     left: 53px;
+                     width: 70%;
+                     top: 212px;
+                
+                    
+                     }
+                     
+                     .source6> img{
+                         border-radius: 6px;
+                         bottom: 48px;
+                         margin-bottom: 100px;
+                         
+                     }
+             
+                     .article6title >h2{
+                         position: absolute;
+                         display: flex;
+                         left: 65px;
+                         justify-content: center;
+                         top: 1260px;
+                        
+                         
+                         
+                     }
+                     
+                     
+                     .article6text >p{
+                         position: absolute;
+                         display: flex;
+                         left: 65px;
+                         justify-content: center;
+                         top: 1295px;
+                         color: gray;
+
+    
+                         
+                     }
+                     .container-info6>ul{
+                         position: absolute;
+                         display: flex;
+                         left: 35px;
+                         justify-content: center;
+                         top:1330px;
+                         gap: 20px;
+                         color: gray;
+                         font-size: small;
+                         top:1350px ;
+                         
+                     }
+                     .button6{
+                        position: absolute;
+                        display: flex;
+                        left: 500px;
+                        justify-content: center;
+                        top: 1370px;
+                        
+                        
+                     }
+                     .button6>button{
+                         color: gray;
+                         
+                         
+                         
+                     }
+                     .article6image{
+                         position: absolute;
+                         display: flex;
+                         left: 600px;
+                         top: 1270px;
+                           
+
+                     }
+
+                     .container-asidetop{
+                        position: relative;
+                        padding-left: 70%;
+                        left: 90px;
+                        display: flex;
+                        justify-content: center;
+                        
+                        
+                        
+
+                     }
+
+                     .aside-top{
+                        position: absolute;
+                        bottom: 1000px;
+                        display: flex;
+                        right: 400px;
+
+                        
+        
+                        
+                     }
+
+                     .loghi{
+                        display: flex;
+                        position: absolute;
+                        align-items: center;
+                        left: 80px;
+                        bottom: 50px;
+                        font-size: small;
+                        
+                    
+                     }
+
+                     .text-asidetop{
+                    display: flex;
+                    align-items: center;
+                    width: max-content;
+                    text-align: center;
+                    color: gray;
+                    font-size: small;
+                    
+                     }
+
+                     .button-twitter{
+                        position: absolute;
+                        display: flex;
+                        top: 50px;
+                        left: 30px;
+                        border: 1px solid black;
+                        border-radius: 20px;
+                        padding: 3px;
+                        width: max-content;
+                    
+                     }
+
+                     .text-buttontwitter{
+                        color: gray;
+                        font-family: 'Times New Roman', Times, serif;
+                        
+                     }
+
+                     .link-topaside{
+                        position: relative;
+                     }
+
+                     .link-topaside > a{
+                    position: absolute;
+                    top: 100px;
+                    right: 60px;
+                    display: flex;
+                    flex-direction: row;
+                    width: max-content;
+                    color: gray;
+                    font-size: small;
+
+                     }
+
+                     .section1-aside{
+                        position: relative;
+                        padding-left: 80%;
+                        left: 50px;
+                        display: flex;
+                        justify-content: center;
+                        
+                        
+                        
+
+                     }
+
+                     .recommented{
+                        width: max-content;
+                        
+                
+
+
+
+                     }
+                     .topics{
+                        position: absolute;
+                        bottom: 850px;
+                        display: flex;
+                        left: 880px;
+                       
+
+                     }
+                     .button-topic{
+                        position: absolute;
+                        display: flex;
+                        top: 50px;
+                        flex-wrap: wrap;
+                        width: 255px;
+                        justify-content: space-between;
+                        
+                        
+
+                     }
+                     #art{
+                        border-radius: 20px;
+                        padding: 4px;
+                        color: grey;
+                        background-color:whitesmoke;
+                    }
+
+                    .icon-123{
+                        padding-bottom: 12px;
+                    }
+
+                    .icon-456{
+                     padding-bottom: 12px;    
+
+                    }
+
+                     
+                     .icon-123 >button{
+                        border-radius: 20px;
+                        padding: 4px;
+                        color: grey;
+                        background-color:whitesmoke;
+                     }
+
+                     
+
+                     .icon-456 >button{
+                        
+                        border-radius: 20px;
+                        padding: 4px;
+                        color: grey;
+                        background-color:whitesmoke;
+                     }
+
+                     .container-follower{
+                        position: relative;
+                     }
+
+
+
+                     #follower{
+                        position: absolute;
+                        display: flex;
+                        right: 400px;
+                        bottom: 650px;
+                     }
+
+                     .prof-1{
+                        display: flex;
+                        flex-direction: row;
+                        position: relative;
+                        left: 920px;
+                        width: 70%;
+                        bottom: 640px;
+                        }
+                        .prof-1> img{
+                        border-radius: 20px;
+                    }
+                    #info-1{
+                        display: flex;
+                        flex-direction: row;
+                        position: relative;
+                        top: 25px;
+                        width: 70%;
+                       right: 50px;
+                       font-size: smaller;
+                       color: grey;
+                    }
+                    .prof-2{
+                        display: flex;
+                        flex-direction: row;
+                        position: relative;
+                        left: 920px;
+                        width: 70%;
+                        bottom: 620px;
+                        }
+                    .prof-2> img{
+                        border-radius: 20px;
+                    }
+                    #info-2{
+                        display: flex;
+                        flex-direction: row;
+                        position: relative;
+                        top: 25px;
+                        width: 70%;
+                       font-size: smaller;
+                       color: grey;
+                    }
+                    .prof-2>strong{
+                       position: absolute;
+                       justify-content: center;
+                       left: 50px;
+                    }
+                    .prof-3{
+                        display: flex;
+                        flex-direction: row;
+                        position: relative;
+                        left: 920px;
+                        bottom: 600px;
+                        
+                        }
+                    .prof-3> img{
+                        border-radius: 20px;
+                        
+                    }
+                    #info-3{
+                        display: flex;
+                        flex-direction: row;
+                        position: relative;
+                        top: 25px;
+                        width: 70%;
+                       font-size: smaller;
+                       color: grey;
+                    }
+                    .prof-3>strong{
+                       position: absolute;
+                       justify-content: center;
+                       left: 50px;
+                    
+                    }
+                    .button-follow{
+                        position: absolute;
+                        border: 1px
+                        border-radius 5px;
+                        list-style-type: none;
+                        right: 10px;
+                        bottom: 100px;
+                    }
+                    
+                    #b1{
+                    display: flex;
+                    margin-bottom: 50px;
+                    color: black;
+                    background-color: whitesmoke;
+                    border: 1px solid black;
+                    
+                    }
+                    #b2{
+                        display: flex;
+                        margin-bottom: 40px;
+                        color: black;
+                        background-color: whitesmoke;
+                        border: 1px solid black;
+                        
+                        }
+                        #b3{
+                            display: flex;
+                            margin-bottom: 10px;
+                            color: black;
+                            background-color: whitesmoke;
+                            border: 1px solid black;
+                            margin-top: 0;
+                            
+                            }
+                            #saved{
+                                display: flex;
+                                position: absolute;
+                                left: 950px;
+                                top: 750px;
+                            }
+                            .final{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                left: 950px;
+                                top: 800px; 
+                                width: max-content;
+                                font-size: small;
+                                
+
+                            }
+                            #h3{
+                            position: absolute;
+                            left: 15px;
+                            top: 10px;
+                            font-size: small;
+                            
+                            
+                            }
+
+                            .container-date{
+                                width: max-content;
+                                position: absolute;
+                            
+                                
+                            }
+
+                            .date{
+                              list-style: none; 
+                              position: absolute;
+                              top: 50px;
+                              left: 15px;
+                        
+                              
+                            }
+                            #mese-anno{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                width: max-content;
+                                top: 10px;
+                                left: 5px;
+                                font-size: smaller;
+                                color: gray;
+                            }
+                            #min{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                width: max-content; 
+                                top: 10px;
+                                left: 120px;
+                                font-size: smaller;
+                                color: gray;
+                                
+                            }
+
+                            .icon-prof{
+                                display: flex;
+                                position: absolute;
+                                left: 5px;
+                                top: 95px;
+                                
+                            }
+                            .icon-prof>img{
+                                border-radius: 10px;
+                            }
+
+                            
+                                
+
+                            #hi{
+                                position: absolute;
+                                top: 100px;
+                                display: flex;
+                                left: 10px;
+                            
+                            }
+                            .date2{
+                                list-style: none; 
+                                position: absolute;
+                                top: 50px;
+                                left: 15px; 
+                            }
+
+
+
+                            #mese-anno2{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                width: max-content;
+                                top: 90px;
+                                left: 5px;
+                                font-size: smaller;
+                                color: gray;
+                            }
+                            #min2{
+                                display: flex;
+                                flex-direction: row;
+                                position: absolute;
+                                width: max-content; 
+                                top: 90px;
+                                left: 120px;
+                                font-size: smaller;
+                                color: gray;
+                                
+                            }
+
+                            .linkgreen{
+                                position: absolute;
+                                left: 60px;
+                                top: 200px;
+                            }
+
+                            .a-final{
+                                position: absolute;
+                                left: 900px;
+                                top: 1100px;
+                                display: flex;
+                                flex-direction: row;
+                                
+                                
+                                
+                                
+                            }
+        
+    
+
+                    
+                    
+                    
+
+                    
+                        
+
+
+                
+
+                     
+                
+
+                     
+                     
+    
